@@ -54,3 +54,6 @@ Finally, cd into the notes_app folder and run the project:
 python manage.py runserver
 ```
 Go to http://localhost:8000/ to see if the app is running.
+
+API endpoints :
+
