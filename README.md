@@ -56,5 +56,6 @@ python manage.py runserver
 Go to http://localhost:8000/ to see if the app is running.
 
 API endpoints :
+
 /admin - Used for admins purpose
 /add is used to add new pizz to list. It shows empty page as it redirects it to the index(homepage) to add to the list.
