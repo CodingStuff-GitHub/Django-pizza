@@ -16,6 +16,7 @@ use pizza_database
 ```
 
 To Run on Localhost:
+
 Have ```Python``` and ```pip``` installed on your local machine
 
 Running the Django project:
