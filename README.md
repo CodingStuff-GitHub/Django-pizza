@@ -20,6 +20,7 @@ To Run on Localhost:
 Have ```Python``` and ```pip``` installed on your local machine
 
 Running the Django project:
+
 Create an isolated environment for the project with virtualenv.
 You can install virtualenv with the following command:
 ```
